@@ -1,5 +1,5 @@
 <?php
-namespace AsyncNotify;
+namespace reedboat\AsyncNotify
 
 class Message {
 

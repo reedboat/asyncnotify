@@ -1,6 +1,6 @@
 <?php
 
-namespace AsyncNotify;
+namespace reedboat\AsyncNotify;
 
 /**
  * Class NotifyProtocol

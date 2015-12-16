@@ -4,6 +4,8 @@ use GuzzleHttp\ClientInterface;
 use GuzzleHttp\Exception\ClientException;
 use GuzzleHttp\Exception\ResponseException;
 
+namespace reedboat\AsyncNotify;
+
 /**
  * Class AsyncNotifyService
  * @author kufazhang

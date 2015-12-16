@@ -1,6 +1,6 @@
 <?php
 
-namespace Notify;
+namespace reedboat\AsyncNotify;
 
 /**
  * Class Subcriber 

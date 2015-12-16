@@ -1,0 +1,18 @@
+{
+    "name": "reedboat/asyncnotify",
+    "description": "数据更新异步通知",
+    "require": {
+        "guzzlehttp/guzzle": "~6.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "reedboat\\AsyncNotify\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zhangqiuming",
+            "email": "zhqm03@gmail.com"
+        }
+    ]
+}
